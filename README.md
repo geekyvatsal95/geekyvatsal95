@@ -50,7 +50,7 @@ I enjoy building backend applications, solving algorithmic problems, and learnin
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=geekyvatsal95&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=geekyvatsal95&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img width="48%" src="https://streak-stats.demolab.com?user=geekyvatsal95&theme=github-dark&hide_border=true"/>
 
@@ -58,7 +58,7 @@ I enjoy building backend applications, solving algorithmic problems, and learnin
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyvatsal95&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geekyvatsal95&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
