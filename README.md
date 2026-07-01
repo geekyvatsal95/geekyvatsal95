@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vatsal Mishra</h1>
+<h3 align="center">Software Developer | Competitive Programmer | Backend Enthusiast</h3>
 
-<!--
-**geekyvatsal95/geekyvatsal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE @ **IET Lucknow**
+- 💼 Software Developer Intern @ **HCLTech**
+- 💻 Solved **350+ LeetCode** problems
+- ⭐ **2★ CodeChef**
+- 📈 Solved **300+ Codeforces** problems
+- 🌱 Currently learning **Backend Development**
+- 🎯 Targeting **Software Development Engineer (SDE)** roles
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+- C++
+- JavaScript
+- SQL
+
+**Tools & Technologies**
+
+- Git
+- GitHub
+- Docker
+- MySQL
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **mishravatsal7@gmail.com**
+- 💼 LinkedIn: *(We'll add this in the next step)*
